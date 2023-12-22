@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin id="com.ibm.workplace.wcm.ashfaq.customworkflowaction" name="Custom Workflow Action" version="1.0.0" provider-name="IBM">
+	<extension point="com.ibm.workplace.wcm.api.CustomWorkflowActionFactory" id="EmailActionFactory">
+		<provider class="com.ashfaq.workflow.custom.action.CustomWcmEmailBodyWorkFlowActionFactory" />
+	</extension>
+</plugin>

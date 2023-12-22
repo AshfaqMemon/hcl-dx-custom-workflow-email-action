@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path=".apt_generated">
+		<attributes>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/com.ibm.ws.ast.st.runtime.runtimeTarget.v90/WebSphere Application Server traditional V9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/IBM95/WebSphere/PortalServer/doc/compile/com.ibm.content.operations.registry.jar"/>
+	<classpathentry kind="lib" path="C:/IBM95/WebSphere/PortalServer/doc/compile/ilwwcm-api.jar"/>
+	<classpathentry kind="lib" path="C:/IBM95/WebSphere/PortalServer/doc/compile/portletapi_10.jar"/>
+	<classpathentry kind="lib" path="C:/IBM95/WebSphere/PortalServer/doc/compile/portletapi_20.jar"/>
+	<classpathentry kind="lib" path="C:/IBM95/WebSphere/PortalServer/doc/compile/public_api.jar"/>
+	<classpathentry kind="lib" path="C:/IBM95/WebSphere/PortalServer/doc/compile/public_spi.jar"/>
+	<classpathentry kind="output" path="src/main/webapp/WEB-INF/classes"/>
+</classpath>
